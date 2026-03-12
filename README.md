@@ -10,6 +10,10 @@ Masterclass educativa de **Infraestructura como Código (IaC)** desarrollada par
 
 Incluye una demo funcional que aprovisiona infraestructura en AWS y una presentación de apoyo (`IaC_El_Fin_del_ClickOps.pptx`).
 
+## Grabacion de la masterclass
+
+[Video en Youtube](https://youtu.be/s-6zHqjE-2c?si=GkXFHkdzNi3AcJuJ)
+
 ## Tecnologías
 
 - [Terraform](https://www.terraform.io/) `~> 6.0` (provider AWS)
